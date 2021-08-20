@@ -1,5 +1,5 @@
 # Hypergraph-2-Coloring
-CS270 Final Project Hypergraph 2-Coloring Code
+CS270 Constructive Lovász Local Lemma Final Project Hypergraph 2-Coloring Code
 
 To reproduce the hypergraph visualization run the command:
 
